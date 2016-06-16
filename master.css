@@ -1,5 +1,6 @@
 *,.no-margin{
   margin: 0px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }.no-margin{
   background-color: #337aa7;
 }
@@ -64,14 +65,16 @@ div.all{
         transform: scale(1.05);
       }
     section.cx > p{
-      height: 270px;
-      box-shadow: 3px 5px 4px;
+      height:auto;
+      box-shadow: none;
+      margin-top: 28%;
+      font-size: 3em;
     }
   footer{
     height: 80px;
     background-color: gray;
     color: white-gray;
-    padding-right: 20%;
+    padding-right: 13.5%;
     padding-top: 30px;
   }
     footer > div.social{
