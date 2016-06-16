@@ -2,7 +2,7 @@
   margin: 0px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }.no-margin{
-  background-color: #337aa7;
+  background-color: #167FFC;
 }
 div.all{
 }
@@ -43,10 +43,11 @@ div.all{
       margin-left: 1%;
       margin-right: 1%;
       margin-bottom: 10px;
-      background-color: yellow;
+      background-color: #4397FC;
+      border-radius: 3px;
     }
     article.corpo > section:first-child{
-      background-color: green;
+      background-color: #3A23FC;
       width: 96%;
       margin-left: 1%;
       margin-right: 1%;
@@ -58,6 +59,7 @@ div.all{
         height: auto;
       }
     section.cx{
+      border-radius: 3px;
       height: 270px;
       box-shadow: 3px 5px 4px;
     }
@@ -68,11 +70,11 @@ div.all{
       height:auto;
       box-shadow: none;
       margin-top: 28%;
-      font-size: 3em;
+      font-size: 200%;
     }
   footer{
     height: 80px;
-    background-color: gray;
+    background-color: #0254B6;
     color: white-gray;
     padding-right: 13.5%;
     padding-top: 30px;
